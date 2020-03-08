@@ -22,8 +22,7 @@ Kaggle Severstal: Steel Defect Detection
 X: 預測的缺陷部位
 Y: 真實的缺陷部位
 
- <img src="http://chart.googleapis.com/chart?cht=tx&chl=Dice coefficient = \cfrac {2*|X\cap Y|}{|X|+|Y|}" style="border:none;">
-
+Dice coefficient = https://latex.codecogs.com/gif.latex?[\cfrac {2*|X\cap Y|}{|X|+|Y|}]
 
 
 基本上需要兩個模型
